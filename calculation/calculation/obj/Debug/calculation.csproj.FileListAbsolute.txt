@@ -18,3 +18,13 @@ C:\Users\mrleb\OneDrive\Desktop\Git\New folder\test-nhom5\calculation\calculatio
 C:\Users\mrleb\OneDrive\Desktop\Git\New folder\test-nhom5\calculation\calculation\obj\Debug\calculation.csproj.CoreCompileInputs.cache
 C:\Users\mrleb\OneDrive\Desktop\Git\New folder\test-nhom5\calculation\calculation\obj\Debug\calculation.exe
 C:\Users\mrleb\OneDrive\Desktop\Git\New folder\test-nhom5\calculation\calculation\obj\Debug\calculation.pdb
+C:\Users\HOANG DIEN\OneDrive\Downloads\Desktop\test-nhom5\calculation\calculation\bin\Debug\calculation.exe.config
+C:\Users\HOANG DIEN\OneDrive\Downloads\Desktop\test-nhom5\calculation\calculation\bin\Debug\calculation.exe
+C:\Users\HOANG DIEN\OneDrive\Downloads\Desktop\test-nhom5\calculation\calculation\bin\Debug\calculation.pdb
+C:\Users\HOANG DIEN\OneDrive\Downloads\Desktop\test-nhom5\calculation\calculation\obj\Debug\calculation.csproj.AssemblyReference.cache
+C:\Users\HOANG DIEN\OneDrive\Downloads\Desktop\test-nhom5\calculation\calculation\obj\Debug\calculation.Form1.resources
+C:\Users\HOANG DIEN\OneDrive\Downloads\Desktop\test-nhom5\calculation\calculation\obj\Debug\calculation.Properties.Resources.resources
+C:\Users\HOANG DIEN\OneDrive\Downloads\Desktop\test-nhom5\calculation\calculation\obj\Debug\calculation.csproj.GenerateResource.cache
+C:\Users\HOANG DIEN\OneDrive\Downloads\Desktop\test-nhom5\calculation\calculation\obj\Debug\calculation.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DIEN\OneDrive\Downloads\Desktop\test-nhom5\calculation\calculation\obj\Debug\calculation.exe
+C:\Users\HOANG DIEN\OneDrive\Downloads\Desktop\test-nhom5\calculation\calculation\obj\Debug\calculation.pdb
