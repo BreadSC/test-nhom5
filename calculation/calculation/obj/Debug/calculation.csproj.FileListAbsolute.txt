@@ -1,0 +1,10 @@
+D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\test-nhom5\calculation\calculation\bin\Debug\calculation.exe.config
+D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\test-nhom5\calculation\calculation\bin\Debug\calculation.exe
+D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\test-nhom5\calculation\calculation\bin\Debug\calculation.pdb
+D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\test-nhom5\calculation\calculation\obj\Debug\calculation.csproj.AssemblyReference.cache
+D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\test-nhom5\calculation\calculation\obj\Debug\calculation.Form1.resources
+D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\test-nhom5\calculation\calculation\obj\Debug\calculation.Properties.Resources.resources
+D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\test-nhom5\calculation\calculation\obj\Debug\calculation.csproj.GenerateResource.cache
+D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\test-nhom5\calculation\calculation\obj\Debug\calculation.csproj.CoreCompileInputs.cache
+D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\test-nhom5\calculation\calculation\obj\Debug\calculation.exe
+D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\test-nhom5\calculation\calculation\obj\Debug\calculation.pdb
